@@ -38,7 +38,7 @@ public class Reverse {
 
         //https://www.samouczekprogramisty.pl/zestaw-cwiczen-dla-poczatkujacych-programistow/
         //loops 4,5,6 exercises
-        
+
         Reverse reverse = new Reverse();
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj tablice do odwrócenia: ");
